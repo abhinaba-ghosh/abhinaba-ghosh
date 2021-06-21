@@ -9,7 +9,7 @@
 -   📖 I am currently reading [zero to one by Peter Thiel](https://amzn.to/3dTQa0k)
 -   💬 Talk to me about soccer, quality engineering, test automation, mars endeavors & startups
 -   👯 We can connect to play some games of Chess ♟
--   🌱 I’m currently learning **Testing in Moicro-frontends and Mega-repos**
+-   🌱 I’m currently researching **Testing patterns for Moicro-frontends and Mega-repos**
 -   📫 How to reach me **askabhinaba@gmail.com**
 -   ⚡ Fun fact: I have 7 cheat days!
 
