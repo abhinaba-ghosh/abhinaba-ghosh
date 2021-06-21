@@ -59,10 +59,12 @@
 </br>
 
 <h3 align="left">Github Stats:</h3>
-
-![Abhis's github stats](https://github-readme-stats.vercel.app/api?username=abhinaba-ghosh&show_icons=true&title_color=ffc857&icon_color=8ac926&text_color=daf7dc&bg_color=151515&hide=["stars"])
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abhinaba-ghosh&layout=compact&text_color=daf7dc&bg_color=151515)
+<a href="https://github.com/abhinaba-ghosh">
+  <img height="137px" align="center" src="https://github-readme-stats.vercel.app/api?username=abhinaba-ghosh&show_icons=true&title_color=ffc857&icon_color=8ac926&text_color=daf7dc&bg_color=151515&hide=["stars"]" />
+</a>
+<a href="https://github.com/abhinaba-ghosh">
+  <img height="137px" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhinaba-ghosh&layout=compact&text_color=daf7dc&bg_color=151515" />
+</a>
 
 <div align="center">
 
