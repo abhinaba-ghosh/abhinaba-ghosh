@@ -49,9 +49,9 @@
 
 <h3 align="left">Recent 3 Blog Posts:</h3>
 <p align="left">
-<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@abhinaba-ghosh/0"><img height="50"  src="https://github-readme-medium-recent-article.vercel.app/medium/@abhinaba-ghosh/0" alt="Recent Article 0">
-<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@abhinaba-ghosh/1"><img height="50"   src="https://github-readme-medium-recent-article.vercel.app/medium/@abhinaba-ghosh/1" alt="Recent Article 1">
-<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@abhinaba-ghosh/2"><img height="50"   src="https://github-readme-medium-recent-article.vercel.app/medium/@abhinaba-ghosh/2" alt="Recent Article 2">
+<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@abhinaba-ghosh/0"><img height="60"  src="https://github-readme-medium-recent-article.vercel.app/medium/@abhinaba-ghosh/0" alt="Recent Article 0">
+<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@abhinaba-ghosh/1"><img height="60"   src="https://github-readme-medium-recent-article.vercel.app/medium/@abhinaba-ghosh/1" alt="Recent Article 1">
+<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@abhinaba-ghosh/2"><img height="60"   src="https://github-readme-medium-recent-article.vercel.app/medium/@abhinaba-ghosh/2" alt="Recent Article 2">
 </p>
 
 <h3 align="left">Support:</h3>
