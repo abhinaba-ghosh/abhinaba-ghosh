@@ -35,7 +35,7 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/abhinabaghosh"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="abhinabaghosh" /></a></p>
 </br>
-<a href="https://www.adamalston.com/"><img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs?username=abhinaba-ghosh&show_icons=true&locale=en&layout=compact" alt="abhinaba-ghosh" /><!-- wi*quL3fcV --><img height="137px" src="https://github-readme-stats.vercel.app/api?username=abhinaba-ghosh&show_icons=true&locale=en" alt="abhinaba-ghosh" /></a>
+<a href="https://github.com/abhinaba-ghosh"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=abhinaba-ghosh&show_icons=true&locale=en&layout=compact" alt="abhinaba-ghosh" /><!-- wi*quL3fcV --><img src="https://github-readme-stats.vercel.app/api?username=abhinaba-ghosh&show_icons=true&locale=en" alt="abhinaba-ghosh" /></a>
 
 <div align="center">
 
