@@ -48,7 +48,7 @@
 <a href="https://www.typescriptlang.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" height="20" height="20"/> </a> </p>
 
 <h3 align="left">Recent 3 Blog Posts:</h3>
-<p>
+<p align="center">
 <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@abhinaba-ghosh/0"><img height="60"  src="https://github-readme-medium-recent-article.vercel.app/medium/@abhinaba-ghosh/0" alt="Recent Article 0">
 <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@abhinaba-ghosh/1"><img height="60"   src="https://github-readme-medium-recent-article.vercel.app/medium/@abhinaba-ghosh/1" alt="Recent Article 1">
 <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@abhinaba-ghosh/2"><img height="60"   src="https://github-readme-medium-recent-article.vercel.app/medium/@abhinaba-ghosh/2" alt="Recent Article 2">
@@ -59,8 +59,10 @@
 </br>
 
 <h3 align="left">Github Stats:</h3>
-<a href="https://github.com/abhinaba-ghosh"><img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs?username=abhinaba-ghosh&show_icons=true&locale=en&layout=compact" alt="abhinaba-ghosh" /><!-- wi*quL3fcV --><img height="137px" src="https://github-readme-stats.vercel.app/api?username=abhinaba-ghosh&show_icons=true&locale=en" alt="abhinaba-ghosh" /></a>
-
+### <img src='https://media1.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif?cid=ecf05e47x2g034i9pzwtzzsd3xgg2w9nr94t4tflbbgo3008&rid=giphy.gif' width='25px'> My Github Stats:
+![Apoorv's github stats](https://github-readme-stats.vercel.app/api?username=abhinaba-ghosh&show_icons=true&title_color=ffc857&icon_color=8ac926&text_color=daf7dc&bg_color=151515&hide=["stars"])
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abhinaba-ghosh&layout=compact&text_color=daf7dc&bg_color=151515)](https://github.com/abhinaba-ghosh/github-readme-stats)
+ 
 <div align="center">
 
 ### Show some ❤️ by starring some of the repositories!
