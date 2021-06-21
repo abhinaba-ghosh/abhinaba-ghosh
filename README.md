@@ -47,10 +47,12 @@
 <a href="https://www.selenium.dev" target="_blank"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" height="20" height="20"/> </a>
 <a href="https://www.typescriptlang.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" height="20" height="20"/> </a> </p>
 
+<p align="left">
 <h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/abhinabaghosh"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="40" width="150" alt="abhinabaghosh" /></a></p>
-</br>
+<a href="https://www.buymeacoffee.com/abhinabaghosh"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="40" width="150" alt="abhinabaghosh" /></a>
+</p>
 
+<p align="left">
 <h3 align="left">Github Stats:</h3>
 <a href="https://github.com/abhinaba-ghosh">
   <img height="137px" align="center" src="https://github-readme-stats.vercel.app/api?username=abhinaba-ghosh&show_icons=true&title_color=ffc857&icon_color=8ac926&text_color=daf7dc&bg_color=151515&hide=["stars"]" />
@@ -58,6 +60,7 @@
 <a href="https://github.com/abhinaba-ghosh">
   <img height="137px" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhinaba-ghosh&layout=compact&text_color=daf7dc&bg_color=151515" />
 </a>
+</p>
 
 <div align="center">
 
