@@ -20,11 +20,7 @@
 <a href="https://medium.com/@abhinaba-ghosh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@abhinaba-ghosh"  height="20" /></a>
 </p>
 
- </br>
-
 <h3 align="left">Languages And Tools:</h3>
-<br>
-
 <p align="left">
 
 <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" height="20" height="20"/> </a>
