@@ -22,7 +22,7 @@
 
  </br>
 
-**Languages and Tools:**
+<h2 align="left">Languages And Tools:</h2>
 <br>
 
 <p align="left">
@@ -51,13 +51,11 @@
 <a href="https://www.selenium.dev" target="_blank"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" height="20" height="20"/> </a>
 <a href="https://www.typescriptlang.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" height="20" height="20"/> </a> </p>
 
-### Recent 3 Blogs posts
-
-<!-- BLOG-POST-LIST:START -->
+<h2 align="left">Recent 3 Blog Posts:</h2>
 <p align="left">
-<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@abhinaba-ghosh/0"><img height="60" src="https://github-readme-medium-recent-article.vercel.app/medium/@abhinaba-ghosh/0" alt="Recent Article 0"></br>
-<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@abhinaba-ghosh/1"><img height="60" src="https://github-readme-medium-recent-article.vercel.app/medium/@abhinaba-ghosh/1" alt="Recent Article 1"></br>
-<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@abhinaba-ghosh/2"><img height="60" src="https://github-readme-medium-recent-article.vercel.app/medium/@abhinaba-ghosh/2" alt="Recent Article 2">
+<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@abhinaba-ghosh/0"><img height="40" src="https://github-readme-medium-recent-article.vercel.app/medium/@abhinaba-ghosh/0" alt="Recent Article 0"></br>
+<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@abhinaba-ghosh/1"><img height="40" src="https://github-readme-medium-recent-article.vercel.app/medium/@abhinaba-ghosh/1" alt="Recent Article 1"></br>
+<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@abhinaba-ghosh/2"><img height="40" src="https://github-readme-medium-recent-article.vercel.app/medium/@abhinaba-ghosh/2" alt="Recent Article 2">
 </p>
 
 <h2 align="left">Support:</h2>
