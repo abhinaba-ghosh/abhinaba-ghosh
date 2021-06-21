@@ -13,15 +13,13 @@
 -   📫 How to reach me **askabhinaba@gmail.com**
 -   ⚡ Fun fact: I have 7 cheat days!
 
-### Recent 5 Blogs posts
+### Recent 3 Blogs posts
 
 <!-- BLOG-POST-LIST:START -->
 
-<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@abhinaba-ghosh/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@abhinaba-ghosh/0" alt="Recent Article 0">
-<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@abhinaba-ghosh/1"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@abhinaba-ghosh/1" alt="Recent Article 1">
-<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@abhinaba-ghosh/2"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@abhinaba-ghosh/2" alt="Recent Article 2">
-<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@abhinaba-ghosh/3"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@abhinaba-ghosh/3" alt="Recent Article 3">
-<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@abhinaba-ghosh/4"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@abhinaba-ghosh/4" alt="Recent Article 4">
+<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@abhinaba-ghosh/0"><img height="40" height="100" src="https://github-readme-medium-recent-article.vercel.app/medium/@abhinaba-ghosh/0" alt="Recent Article 0">
+<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@abhinaba-ghosh/1"><img height="40" height="100" src="https://github-readme-medium-recent-article.vercel.app/medium/@abhinaba-ghosh/1" alt="Recent Article 1">
+<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@abhinaba-ghosh/2"><img height="40" height="100" src="https://github-readme-medium-recent-article.vercel.app/medium/@abhinaba-ghosh/2" alt="Recent Article 2">
 
 <!-- BLOG-POST-LIST:END -->
 
