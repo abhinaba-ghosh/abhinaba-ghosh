@@ -17,8 +17,8 @@
 
 <!-- BLOG-POST-LIST:START -->
 
-<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@abhinaba-ghosh/0"><img height="60" src="https://github-readme-medium-recent-article.vercel.app/medium/@abhinaba-ghosh/0" alt="Recent Article 0">
-<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@abhinaba-ghosh/1"><img height="60" src="https://github-readme-medium-recent-article.vercel.app/medium/@abhinaba-ghosh/1" alt="Recent Article 1">
+<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@abhinaba-ghosh/0"><img height="60" src="https://github-readme-medium-recent-article.vercel.app/medium/@abhinaba-ghosh/0" alt="Recent Article 0"></br>
+<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@abhinaba-ghosh/1"><img height="60" src="https://github-readme-medium-recent-article.vercel.app/medium/@abhinaba-ghosh/1" alt="Recent Article 1"></br>
 <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@abhinaba-ghosh/2"><img height="60" src="https://github-readme-medium-recent-article.vercel.app/medium/@abhinaba-ghosh/2" alt="Recent Article 2">
 
 <!-- BLOG-POST-LIST:END -->
