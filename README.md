@@ -1,19 +1,20 @@
 <h1 align="center">Hi 👋, I'm Abhi</h1>
 <h3 align="center">I am automation nerd and open-source enthusiast</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=abhinaba-ghosh&label=Profile%20views&color=0e75b6&style=flat" alt="abhinaba-ghosh" /> </p>
+### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="45px"> About Me:
 
-- 🌱 I’m currently learning **Moicro-frontend Management**
-
-- 📝 I regularly write articles on [https://medium.com/@abhinaba-ghosh](https://medium.com/@abhinaba-ghosh)
-
-- 💬 Ask me about **Test Automation, DevOps, Anything Exciting**
-
-- 📫 How to reach me **askabhinaba@gmail.com**
-
-- ⚡ Fun fact **I have 7 cheat days!**
+-   🏦 I'm a Software Engineer In Test working for Postman remotely
+    <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+-   📝 I regularly write technical articles for [Medium](https://medium.com/@abhinaba-ghosh)
+-   📖 I am currently reading [zero to one by Peter Thiel](https://amzn.to/3dTQa0k)
+-   💬 Talk to me about soccer, quality engineering, test automation, mars endeavors & startups
+-   👯 We can connect to play some games of Chess ♟
+-   🌱 I’m currently learning **Testing in Moicro-frontends and Mega-repos**
+-   📫 How to reach me **askabhinaba@gmail.com**
+-   ⚡ Fun fact: I have 7 cheat days!
 
 ### Blogs posts
+
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
@@ -30,6 +31,6 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/abhinabaghosh"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="abhinabaghosh" /></a></p><br><br>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=abhinaba-ghosh&show_icons=true&locale=en&layout=compact" alt="abhinaba-ghosh" /></p>
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=abhinaba-ghosh&show_icons=true&locale=en&layout=compact" alt="abhinaba-ghosh" />
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abhinaba-ghosh&show_icons=true&locale=en" alt="abhinaba-ghosh" /></p>
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=abhinaba-ghosh&show_icons=true&locale=en" alt="abhinaba-ghosh" />
