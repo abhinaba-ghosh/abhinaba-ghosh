@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Abhi</h1>
 <h3 align="center">Automation devotee and open-source enthusiast</h3>
-![](https://komarev.com/ghpvc/?username=abhinaba-ghosh&color=ff69b4)
 
 ### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="45px">About Me:
 
