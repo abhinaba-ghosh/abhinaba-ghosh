@@ -1,9 +1,8 @@
 <h1 align="center">Hi 👋, I'm Abhi</h1>
-<h3 align="center">Automation devotee and open-source enthusiast</h3>
 
 ### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="45px">About Me:
 
--   📮 I'm a Technical Lead Mzanager, Quality working for Postman remotely
+-   📮 I'm a Technical Lead Manager, Quality working for Postman remotely
     <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 -   📝 I regularly write technical articles for [Medium](https://medium.com/@abhinaba-ghosh)
 -   📖 I am currently reading [zero to one by Peter Thiel](https://amzn.to/3dTQa0k)
