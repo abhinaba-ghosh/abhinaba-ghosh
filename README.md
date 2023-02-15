@@ -8,7 +8,7 @@
 -   📖 I am currently reading [The Idea Of India by Sunil Khilnani](https://www.amazon.in/Idea-India-Sunil-Khilnani/dp/0143032461)
 -   💬 Talk to me about soccer, quality engineering, test automation, mars endeavors & startups
 -   👯 We can connect to play some games of Chess ♟
--   📫 How to reach me **askabhinaba@gmail.com**
+-   📫 How to reach me **abhinabaghosh.official@gmail.com**
 -   ⚡ Fun fact: I have 7 cheat days!
 
 <h3 align="left">Connect with me:</h3>
