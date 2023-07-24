@@ -2,6 +2,7 @@
 
 ### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="45px">About Me:
 
+-   🗓️Connect me with 1:1 sessions on [topmate](https://topmate.io/abhinaba_ghosh)
 -   📮 I'm a Technical Lead Manager, Quality working for Postman remotely
     <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 -   📝 I regularly write technical articles for [Medium](https://medium.com/@abhinaba-ghosh)
