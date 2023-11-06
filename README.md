@@ -3,7 +3,7 @@
 ### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="45px">About Me:
 
 -   🗓️Connect me with 1:1 sessions on [topmate](https://topmate.io/abhinaba_ghosh)
--   📮 I'm a Engineering Manager, Quality Platform working for Postman remotely
+-   📮 I'm a Engineering Manager, Test Platforms working for Gitlab remotely
     <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 -   📝 I regularly write technical articles for [Medium](https://medium.com/@abhinaba-ghosh)
 -   📖 I am currently reading [The Idea Of India by Sunil Khilnani](https://www.amazon.in/Idea-India-Sunil-Khilnani/dp/0143032461)
